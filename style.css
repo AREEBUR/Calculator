@@ -1,0 +1,39 @@
+.Owner h5 {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif,Arial, Helvetica, sans-serif;
+    padding-left: 250px;
+}
+
+.main {
+    border: 1px solid #000;
+    width: 400px;
+    height: 350px;
+    margin: 0 auto;
+}
+
+.result {
+    font-size: 5mm;
+    height: 30px;
+    width: 98%;
+    background-color: gainsboro;
+}
+
+.topbtn {
+    height: 30px;
+    margin-top: 15px;
+    width: 74%;
+    background-color:ghostwhite;
+}
+
+.btn {
+    margin: 13px;
+    width: 70px;
+    height: 30px;
+    background-color:ghostwhite;
+}
+
+.hlfbtn {
+    background-color: ghostwhite;
+    width: 195px;
+    height: 30px;
+}
